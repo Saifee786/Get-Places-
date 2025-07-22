@@ -1,0 +1,1573 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+.heading{
+    width: 100%;
+    height: 2.3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.one{
+    font-weight: 400;
+    font-size: x-large;
+    font-family: cursive;
+}
+.two{
+    letter-spacing: 2px;
+}
+.About{
+    
+    height:350px;
+}
+.three{
+    font-family: cursive;
+    padding: 20px 0 20px 0;
+    border: inset 2px rgba(0,.25,.25,.40);
+    text-align: center;
+}
+.snd-container{
+    width: 100%;
+    width: 700px;
+}
+.snd-container{
+    width: 100%;
+    height: 100vh;
+    background: url("Image.jpeg");
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.navbar{
+  border: 2px solid rgba(66, 64, 64, 0.4); 
+}
+.btn-success{
+    background-color: transparent;
+    background-image: none;
+}
+.form-control:hover {
+    box-shadow: inset 1px 1px 2px rgba(0,.25,.25,.40);
+}
+.collapse ul li a{
+    margin-left: 0.5rem;
+
+}
+.content{
+    width: 100%;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 250px;
+    justify-content: space-between;
+}
+.headline{
+    text-align: center;
+   
+}
+.para{
+    text-align: center;
+}
+.trd-container{
+    height: 600px;
+    width: 100%;
+    background-color:  #E6E6E6;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+   
+}
+
+.clip{
+    width: 350px;
+    height: 200px;
+    border-radius: 4rem;
+    display: flex;
+    margin: 60px 0 40px 0;
+    align-items: center;
+    justify-content: center;
+   
+}
+.vd{
+    width: 350px;
+    height: 200px;
+    border-radius: 4rem;
+}
+.options{
+    width:100% ;
+    height: 500px;
+    background-color:#fff;
+    margin: 100px 0 50px 0;
+   
+}
+.parts{
+    
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.parts img{
+    width: 400px;
+    height: 350px;
+    border-radius: 2rem;
+    
+}
+.pic1{
+    width: 400px;
+    height: 350px;
+    border-radius: 2rem;
+    margin: 50px;
+    background: url("./traveling-with-dogs.jpg");
+    background-size: cover;
+    background-position: center; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.25);
+}
+.pic2{
+    width: 400px;
+    height: 350px;
+    border-radius: 2rem;
+    margin: 50px;
+    background: url("./friends-having-fun-traveling-by-car.avif");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.25); 
+}
+.four{
+    margin-top: 140px;
+    font-family: cursive;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+.five{
+    margin-top: 140px;
+    font-family: cursive;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+.six{
+    font-family: cursive;
+}
+.seven{
+    font-weight: 700;font-family: cursive;
+}
+.eight{
+    width: 100%;
+    background-color: #000;
+    text-align: center;
+    margin: 0;
+    color: #fff;
+    font-family: cursive;
+    padding: 10px 0 10px 0;
+    border: inset 2px #fff;
+}
+.btn1{
+    margin-left:25rem ;
+    border-radius: 5rem;
+}
+.slides{
+    width: 100;
+    height: 600px;
+    background-color: #000;
+}
+.slide1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.card{
+    margin:90px 0  0 30px;
+}
+.slide2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.fivth-container{
+    width: 100%;
+    height: 1050px;
+    background-color: #E6E6E6;
+}
+.part2{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+#imge1{
+    height: 210px;
+    width: 390px;
+}
+.nine{
+    text-align: center;
+    font-family: cursive;
+    padding: 20px 0;
+}
+.sixth-container{
+    width: 100%;
+    height: 600px;
+    background-color: #000;
+    position: relative;
+}
+.last{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.ten{
+    text-align: center;
+    color: #fff;
+    padding: 30px 0;
+    margin-top: 300px;
+    border: inset 2px #fff;
+    background-color: #000;
+}
+#A1{
+    width:96%;
+    height: 210px;
+    margin: 1rem 0 0 1.75rem;
+}
+.contact{
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-left: 30px;
+}
+.phone{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-left: 60px;
+}
+.mail{
+    width: 230px;
+    height: 50px;
+    text-align: center;
+}
+.last i{ 
+    color: #fff;
+    font-size: x-large;
+}
+.last p{
+    color: #fff;
+}
+.eleven{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 80px 0 0 0;
+}
+.thirteen{
+    border-radius: 0.5rem;
+    width: 17rem;
+    border: inset 2px rgba(0,.25,.25,.40);
+}
+.fourteen{
+    margin-right: 20rem;
+    border-radius: 5rem;
+    background-color: #0d6efd;
+    color: #fff;
+}
+#fivteen{
+    color:#fff;
+    border-color: #fff;
+}
+#cbody1{
+    width: 18rem;margin:90px 0 0 0;
+}
+#cbody2{
+    width: 18rem;margin:100px 0 0 0; 
+}
+#cbody3{
+    width: 18rem;
+}
+#cbody4{
+    width: 18rem;
+}
+#B1{
+    width: 286px;
+    height: 250px;
+}
+#B2{
+    width: 286px;
+    height: 259px;
+}
+.bot{
+    width: 80px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #0d6efd;
+    color: #fff;
+    font-size: 1rem;
+    padding:3px 12px 6px 12px;
+}
+#email{
+    width: 300px;
+    border-radius: 5px;
+}
+#text{
+    width: 300px;
+    height: 70px;
+    border-radius: 5px;
+}
+#form{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 80px 0 0 0;
+}
+.sixth-container #form #email:hover{
+    border: 2px solid #fff;
+}
+.sixth-container #form #text:hover{
+    border: 2px solid #fff;
+}
+
+@media (min-width:250px) and  (max-width:349px){
+    .one{
+        font-size: 12px;
+       }
+       .clip{
+        width: 220px;
+        height: 125px;
+       }
+       .vd{
+        width: 220px;
+        height: 125px;
+       }
+       .four{
+        font-size: 1rem;
+        margin: 70px;
+       }
+       .five{
+        font-size: 1rem;
+        margin: 70px;
+       }
+       .pic1{
+        width: 200px;
+        height: 200px;
+         
+       }
+       .pic2{
+        width: 200px;
+        height: 200px;
+        margin-bottom: 50px;
+        
+       }
+       .parts{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        
+       }  
+       .options{
+        height: 600px;
+        margin: 0 0 50px 0;
+       }
+       .six{
+        font-size: 12px;
+       }
+       .About{
+        height: 350px;
+       }
+       .trd-container{
+        height: 700px;
+       }
+       .eight{
+        font-size: 1rem;
+        margin-top: 50px;
+       }
+       .slides{
+        height: 1700px;
+       }
+       .slide1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .slide2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .nine{
+        font-size: 1rem;
+       }
+       .btn1{
+        margin: 0;
+       }
+       .fivth-container{
+        height: 2200px;
+       }
+       .part2{
+       height: 1900px;
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center;
+       margin-top: 20px;
+       
+       }
+       #imge1{
+        width: 150px;
+        height: 180px;
+       }
+       #A1{
+         width: 150px;
+         height: 435px;
+       }
+       .card-title{
+        font-size: 1rem;
+       }
+       .card-text{
+        font-size: 10px;
+       }
+       .ten{
+        font-size: 1rem;
+        margin: 0;
+        padding: 10px;
+       }
+       .eleven{
+        padding: 50px 0 0 0;
+       }
+       .last{
+        margin-top: 80px;
+       }
+       .sixth-container{
+        height: 550px;
+       }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 10px;
+       }
+       .contact{
+        margin: 20px;
+       }
+       #icon{
+        font-size: small;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+        }
+       .slides{
+        height: 1550px;
+        }
+        .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        }
+           #B1{
+            width: 150px;
+            height: 210px;
+           }
+           #B2{
+            width: 150px;
+            height: 210px;
+           }
+           #cbody2{
+            width: 150px;
+            height:400px;
+           }
+           #cbody1{
+            width: 150px;
+            height:400px;
+            margin-left: 30px;
+           }
+           #cbody3{
+            width: 150px;
+            height:400px;
+           }
+           #cbody4{
+            width: 150px;
+            height:400px;
+           }
+           .slides{
+            height: 1500px;
+           }
+           .slide1{
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+           }
+           .slide2{
+            display: flex;
+            flex-direction: column;
+            flex-wrap: wrap;
+           } 
+           #email{
+            width: 200px;
+            height: 20px;
+           }
+           #text{
+            width: 200px;
+            height: 50px;
+           }
+           .bot{
+            width: 50px ;
+            height: 20px;
+            font-size: 10px;
+            padding: 0%;
+           }      
+}
+
+@media (min-width:350px) and  (max-width:400px){
+    .one{
+        font-size: 1rem;
+       }
+       .clip{
+        width: 220px;
+        height: 125px;
+       }
+       .vd{
+        width: 220px;
+        height: 125px;
+       }
+       
+       .pic1{
+        width: 250px;
+         
+       }
+       .pic2{
+        width: 250px;
+        margin-bottom: 50px;
+        
+       }
+       .parts{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        
+       }  
+       .options{
+        height: 900px;
+        margin: 0 0 50px 0;
+       }
+       .six{
+        font-size: 12px;
+       }
+       .About{
+        height: 350px;
+       }
+       .trd-container{
+        height: 600px;
+       }
+       .eight{
+        font-size: 1rem;
+        margin-top: 50px;
+       }
+       .slides{
+        height: 1700px;
+       }
+       .slide1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .slide2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .nine{
+        font-size: 1rem;
+       }
+       .btn1{
+        margin: 0;
+       }
+       .fivth-container{
+        height: 1800px;
+       }
+       .part2{
+       height: 1600px;
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center; 
+       }
+       #imge1{
+        width: 250px;
+        height: 180px;
+       }
+       #A1{
+         width: 250px;
+         height: 350px;
+       }
+       .card-title{
+        font-size: 1rem;
+       }
+       .card-text{
+        font-size: 10px;
+       }
+       .ten{
+        font-size: 1rem;
+        margin: 0;
+        padding: 10px;
+       }
+       .eleven{
+        padding: 50px 0 0 0;
+       }
+       .last{
+        margin-top: 80px;
+       }
+       .sixth-container{
+        height: 550px;
+       }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 10px;
+       }
+       .contact{
+        margin: 20px;
+       }
+       #icon{
+        font-size: small;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+       
+       .slides{
+        height: 1550px;
+        }
+        .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        }
+           #B1{
+            width: 250px;
+            height: 210px;
+           }
+           #B2{
+            width: 250px;
+            height: 210px;
+           }
+           #cbody2{
+            width: 250px;
+            height:380px;
+            margin: 50px 0 0 30px;
+         
+           }
+           #cbody1{
+            width: 250px;
+            height:380px;
+            margin: 50px 0 0 30px;
+            
+           }
+           #cbody3{
+            width: 250px;
+            height:380px;
+           
+           }
+           #cbody4{
+            width: 250px;
+            height:380px;
+           }
+           .slides{
+            height: 1450px;
+           }
+           #email{
+            width: 200px;
+            height: 20px;
+           }
+           #text{
+            width: 200px;
+            height: 50px;
+           }
+           .bot{
+            width: 50px ;
+            height: 20px;
+            font-size: 10px;
+            padding: 0%;
+           }       
+}
+@media(min-width:401px) and  (max-width:500px) {
+    .one{
+        font-size: 20px;
+       }
+       .clip{
+        width: 250px;
+        height: 150px;
+       }
+       .vd{
+        width: 250px;
+        height: 150px;
+       }
+       .pic1{
+        width: 350px; 
+       
+       }
+       .pic2{
+        width: 350px;
+      
+       }
+       .parts{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 0;
+       } 
+       .options{
+        height: 850px;
+        margin: 0 0 50px 0;
+       }
+       .six{
+        font-size: 12px;
+       }
+       .About{
+        height: 350px;
+       }
+       .trd-container{
+        height: 600px;
+       }
+       .eight{
+        font-size: 1rem;
+        margin-top: 50px;
+       }
+       .slides{
+        height: 1700px;
+       }
+       .slide1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .slide2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .nine{
+        font-size: 20px;
+       }
+       .btn1{
+        margin: 0;
+       }
+       .fivth-container{
+        height: 2400px;
+       }
+       .part2{
+       height: 2000px;
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center;
+       
+       }
+       #imge1{
+        width: 300px;
+        height: 200px;
+       }
+       #A1{
+         width: 300px;
+         height: 450px;
+         margin: 1.75rem 1rem 0 1rem;
+       }
+       .card-title{
+        font-size: 1.05rem;
+       }
+       .card-text{
+        font-size: 14px;
+       }
+       .ten{
+        font-size: 1rem;
+        margin: 0;
+        padding: 10px;
+       }
+       .eleven{
+        padding: 50px 0 0 0;
+       }
+       .last{
+        margin-top: 80px;
+       }
+       .sixth-container{
+        height: 550px;
+       }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 10px;
+       }
+       .contact{
+        margin: 20px; 
+       }
+       #icon{
+        font-size: small;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+      
+        .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        }
+           #B1{
+            width: 300px;
+            height: 210px;
+           }
+           #B2{
+            width: 300px;
+            height: 210px;
+           }
+           #cbody2{
+            width: 300px;
+            height:400px;
+            margin: 50px 0 0 0;
+         
+           }
+           #cbody1{
+            width: 300px;
+            height:400px;
+            margin: 50px 0 0 0;
+            
+           }
+           #cbody3{
+            width: 300px;
+            height:400px;
+            margin-left: 0;
+           
+           }
+           #cbody4{
+            width: 300px;
+            height:400px;
+            margin-left: 0;
+           }
+           .slides{
+            height: 1500px;
+           }
+           #email{
+            width: 200px;
+            height: 20px;
+           }
+           #text{
+            width: 200px;
+            height: 50px;
+           }
+           .bot{
+            width: 50px ;
+            height: 20px;
+            font-size: 10px;
+            padding: 0%;
+           }
+}
+@media(min-width:501px) and  (max-width:600px) {
+
+       .one{
+        font-size: 20px;
+       }
+       .three{
+        font-size: 24px;
+       }
+       .clip{
+        width: 250px;
+        height: 150px;
+       }
+       .vd{
+        width: 250px;
+        height: 150px;
+       }
+       .pic1{
+        width: 350px; 
+       
+       }
+       .pic2{
+        width: 350px;
+      
+       }
+       .parts{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 0;
+       } 
+       .options{
+        height: 900px;
+        margin: 0 0 50px 0;
+       }
+       .six{
+        font-size: 12px;
+       }
+       .About{
+        height: 350px;
+       }
+       .trd-container{
+        height: 600px;
+       }
+       .eight{
+        font-size: 24px;
+        margin-top: 50px;
+       }
+       .slides{
+        height: 1700px;
+       }
+       .slide1{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .slide2{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+       }
+       .nine{
+        font-size: 24px;
+       }
+       .btn1{
+        margin: 0;
+       }
+       .fivth-container{
+        height: 2100px;
+       }
+       .part2{
+       height: 1850px;
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center;
+       
+       }
+       #imge1{
+        width: 400px;
+        height: 200px;
+       }
+       #A1{
+         width: 400px;
+         height: 400px;
+         margin: 1.75rem 1rem 0 1rem;
+       }
+       .card-title{
+        font-size: 1.05rem;
+       }
+       .card-text{
+        font-size: 14px;
+       }
+       .ten{
+        font-size: 1rem;
+        margin: 0;
+        padding: 10px;
+       }
+       .eleven{
+        padding: 50px 0 0 0;
+       }
+       .last{
+        margin-top: 80px;
+       }
+       .sixth-container{
+        height: 550px;
+       }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 10px;
+       }
+       .contact{
+        margin: 20px;
+       }
+       #button{
+        width: 50px;
+        height: 15px;
+        font-size: 10px;
+        padding: 0;
+       }
+       #icon{
+        font-size: small;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       } 
+        .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        }
+           #B1{
+            width: 350px;
+            height: 210px;
+           }
+           #B2{
+            width: 350px;
+            height: 210px;
+           }
+           #cbody2{
+            width: 350px;
+            height:400px;
+            margin: 50px 0 0 0;
+         
+           }
+           #cbody1{
+            width: 350px;
+            height:400px;
+            margin: 50px 0 0 0;
+            
+           }
+           #cbody3{
+            width: 350px;
+            height:400px;
+            margin-left: 0;
+           
+           }
+           #cbody4{
+            width: 350px;
+            height:400px;
+            margin-left: 0;
+           }
+           .slides{
+            height: 1500px;
+           }
+           #email{
+            width: 200px;
+            height: 20px;
+           }
+           #text{
+            width: 200px;
+            height: 50px;
+           }
+           .bot{
+            width: 50px ;
+            height: 20px;
+            font-size: 10px;
+            padding: 0%;
+           }
+
+}
+@media (min-width:601px) and (max-width:767px) {
+        .clip{
+          width: 300px;
+        }
+        .vd{
+          width: 300px;
+        }
+        .six{
+        font-size: 13px;
+         }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 10px;
+       }
+       .contact{
+        margin: 20px;
+       }
+       #email{
+        font-size: 13px;
+        text-align: center;
+       }
+       #Message{
+        font-size: 13px;
+        text-align: center;
+       }
+       #button{
+        width: 80px;
+        height: 25px;
+        font-size: 1rem;
+        padding: 0;
+       }
+       #icon{
+        font-size: x-large;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+       .fivth-container{
+        height:1800px;
+       }
+       .part2{
+        height: 1700px;
+        display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       align-items: center;
+       justify-content: center;
+       }
+       #A1{
+        width: 550px;
+        height: 353px;
+       }
+       #imge1{
+        width: 550px;
+        height: 200px;
+       }
+       .card-title{
+        font-size: 1rem;
+       }
+       .card-text{
+        font-size: 13px;
+       }
+       .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap
+       }
+       .slides{
+        height: 700px;
+        margin: 0%;
+       }
+       #B1{
+        width: 120px;
+        height: 210px;
+       }
+       #B2{
+        width: 120px;
+        height: 210px;
+       }
+       #cbody2{
+        width: 120px;
+        height:550px;
+        margin:50px 0 0 0;
+       }
+       #cbody1{
+        width: 120px;
+        height:550px;
+        margin: 50px 0 0 0;
+       }
+       #cbody3{
+        width: 120px;
+        height:550px;
+        margin:50px 30px 0 30px;
+       }
+       #cbody4{
+        width: 120px;
+        height:550px;
+        margin:50px 0 0 0;
+       }
+}
+@media (min-width:768px) and (max-width:800px) {
+    .clip{
+      width: 300px;
+    }
+    .vd{
+      width: 300px;
+    }
+    .six{
+    font-size: 13px;
+     }
+   .phone{
+    margin-left:0;
+   }
+   .twevle{
+    font-size: 10px;
+   }
+   .contact{
+    margin: 20px;
+   }
+   .form-control1{
+    width: 320px;
+    height: 30px;  
+   }
+   #email{
+    font-size: 1rem;
+   }
+   #Message{
+    font-size: 1rem;
+   }
+   #button{
+    width: 80px;
+    height: 25px;
+    font-size: 1rem;
+    padding: 0;
+   }
+   #icon{
+    font-size: x-large;
+   }
+   .mb-3 .form-control1:hover{
+    border: 2px solid white;
+   }
+   #fivteen{
+    width: 90px;
+    height: 25px;
+    font-size: 12px;
+    padding: 0;
+   }
+   .fivth-container{
+    height:1100px;
+   }
+   .part2{
+    height: 1000px;
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   align-items: center;
+   justify-content: center;
+   }
+   #A1{
+    width: 700px;
+    height: 200px;
+   }
+   #imge1{
+    width: 700px;
+    height: 200px;
+   }
+   .card-title{
+    font-size: 1rem;
+   }
+   .card-text{
+    font-size: 13px;
+   }
+   .mb-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap
+   }
+   .slides{
+    height: 600px;
+    margin: 0%;
+   }
+   #B1{
+    width: 200px;
+    height: 210px;
+   }
+   #B2{
+    width: 200px;
+    height: 210px;
+   }
+   #cbody2{
+    width: 200px;
+    height:450px;
+    margin:50px 0 0 0;
+   }
+   #cbody1{
+    width: 200px;
+    height:450px;
+    margin: 50px 0 0 0;
+   }
+   #cbody3{
+    width: 200px;
+    height:450px;
+    margin:50px 30px 0 30px;
+   }
+   #cbody4{
+    width: 200px;
+    height:450px;
+    margin:50px 0 0 0;
+   }
+}
+@media  (min-width:801px) and (max-width:900px) {
+    .slides{
+        height: 700px;
+        margin: 0%;
+       }
+       #B1{
+        width: 200px;
+        height: 210px;
+       }
+       #B2{
+        width: 200px;
+        height: 210px;
+       }
+       #cbody2{
+        width: 200px;
+        height:520px;
+        margin:50px 0 0 0;
+       }
+       #cbody1{
+        width: 200px;
+        height:520px;
+        margin: 50px 0 0 0;
+       }
+       #cbody3{
+        width: 200px;
+        height:520px;
+        margin:50px 30px 0 30px;
+       }
+       #cbody4{
+        width: 200px;
+        height:520px;
+        margin:50px 0 0 0;
+       }
+       .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 1rem;
+       }
+       .contact{
+        margin: 20px;
+       }
+       .form-control1{
+        width: 320px;
+        height: 30px;  
+       }
+       #email{
+        font-size: 1rem;
+       }
+       #Message{
+        font-size: 1rem;
+       }
+       #button{
+        width: 80px;
+        height: 25px;
+        font-size: 1rem;
+        padding: 0;
+        
+       }
+       #icon{
+        font-size: x-large;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+       #A1{
+        height: 250px;
+        margin-left: 1rem;
+       }
+       #imge1{
+        height: 250px;
+       }
+       .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap
+       }
+       .fivth-container{
+        height: 1300px;
+      }
+       .part2{
+        height: 1200px;
+       }
+}
+@media (min-width:901px) and (max-width:1000px) {
+    .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 1rem;
+       }
+       .contact{
+        margin: 20px;
+       }
+       #email{
+        font-size: 1rem;
+       }
+       #Message{
+        font-size: 1rem;
+       }
+       #button{
+        width: 80px;
+        height: 25px;
+        font-size: 1rem;
+        padding: 0;
+        
+       }
+       #icon{
+        font-size: x-large;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+       #A1{
+        height: 250px;
+        margin-left: 1rem;
+       }
+       .row{
+        height: 250px;
+       }
+       #imge1{
+        height: 250px;
+       }
+       .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap
+       }
+       .fivth-container{
+        height: 1200px;
+       }
+       .slides{
+        height: 650px;
+        margin: 0%;
+       }
+       #B1{
+        width: 230px;
+        height: 210px;
+       }
+       #B2{
+        width: 230px;
+        height: 210px;
+       }
+       #cbody2{
+        width: 230px;
+        height:520px;
+        margin:50px 0 0 0;
+       }
+       #cbody1{
+        width: 230px;
+        height:520px;
+        margin: 50px 0 0 0;
+       }
+       #cbody3{
+        width: 230px;
+        height:520px;
+        margin:50px 30px 0 30px;
+       }
+       #cbody4{
+        width: 230px;
+        height:520px;
+        margin:50px 0 0 0;
+       }
+}
+@media (min-width:1001px) and (max-width:1500px) {
+    .phone{
+        margin-left:0;
+       }
+       .twevle{
+        font-size: 1rem;
+       }
+       .contact{
+        margin: 20px;
+       }
+       .form-control1{
+        width: 320px;
+        height: 30px;
+        
+       }
+       #email{
+        font-size: 1rem;
+       }
+       #Message{
+        font-size: 1rem;
+       }
+       #button{
+        width: 80px;
+        height: 25px;
+        font-size: 1rem;
+        padding: 0;
+        
+       }
+       #icon{
+        font-size: x-large;
+       }
+       .mb-3 .form-control1:hover{
+        border: 2px solid white;
+       }
+       #fivteen{
+        width: 90px;
+        height: 25px;
+        font-size: 12px;
+        padding: 0;
+       }
+       #A1{
+        height: 250px;
+        margin-left: 1rem;
+       }
+       .row{
+        height: 250px;
+       }
+       #imge1{
+        height: 250px;
+       }
+       .mb-3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-wrap: wrap
+       }
+       .fivth-container{
+        height: 1200px;
+       }
+}
